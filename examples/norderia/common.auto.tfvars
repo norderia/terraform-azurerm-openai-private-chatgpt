@@ -193,6 +193,6 @@ libre_app_violations = {
 
 # Custom Domain and Managed Certificate (Optional)
 libre_app_custom_domain_create     = false
-librechat_app_custom_domain_name   = "privategptchatbot"
-librechat_app_custom_dns_zone_name = "domain.com"
-dns_resource_group_name            = "DNS-Resource-Group-Name"
+librechat_app_custom_domain_name   = "norav2"
+librechat_app_custom_dns_zone_name = "norderia.ai"
+dns_resource_group_name            = "rg-dns-norderia-ai"
